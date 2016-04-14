@@ -1,0 +1,25 @@
+0 = codex Sangermanensis (720), nunc Parisinus 12126, saec. IX.
+L -- codex Laureshamensis, nunc Vindobonensis 962, saec. IX.
+
+M Ξ codex Monacensis 208, saec. IX—X.
+
+P -- codex Parisinus 1647 A, saec. X.
+
+B z codex Bambergensis 476, saec. ΧΙ.
+
+V :- codex Veronensis, saec. VH„ cf. p. 2
+
+F = Minucii Felicis Octauius, ed. Halm Vindobonae 1867
+
+r :z editio princeps Romae 1471.
+
+v = editiones uel omnes uel aliquot.
+
+Codicum genera duo esse adparet: optimum unum, in quo sunt
+LPM ¹ ‚ alterum interpolatum, cui sunt adscribendi CBM2. his codi-
+cibus ita usus sum, ut quae communia exhibeant, ea quam maxime
+genuina haberem, quae interpolatae sectae unus uel omnes contra
+
+reliquorum consensum haberent, maximam partem reicerem‚ pauca
+eaque dubitanter probarem.
+

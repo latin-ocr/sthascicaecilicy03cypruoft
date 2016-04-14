@@ -1,0 +1,10 @@
+ 
+
+S = codex Seguierianus3 desunt c. 1 - c. 2 et c. 17 -- c. 26.
+W = codex Wiirzeburgensis.
+R = codex Reginensis.
+M = codex Monacensis,
+B = codex Bambergensis.
+V = codex Veronensis.
+ΜΒ ad recensenda ea quae in S desunt adhibui.
+
